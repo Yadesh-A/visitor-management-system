@@ -1,0 +1,21 @@
+# Django Core
+django>=5.0,<6.1
+django-cors-headers
+
+# Authentication
+djangorestframework
+djangorestframework-simplejwt
+
+# Database (PostgreSQL)
+psycopg2-binary
+
+# Real-time / WebSockets
+channels
+daphne
+channels-redis  # Redis use panni deploy panna ithu thevai padum
+
+# Tools & Utilities
+python-dotenv
+requests
+pillow          # Image processing (Visitor photos-kku)
+pywin32

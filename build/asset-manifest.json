@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.704edcf7.js",
+    "static/js/453.e0050b3d.chunk.js": "/static/js/453.e0050b3d.chunk.js",
+    "static/media/navylogo.jpg": "/static/media/navylogo.5ebe5f4c8503145720d1.jpg",
+    "static/media/stamp.jpg": "/static/media/stamp.2210412ab09da7412947.jpg",
+    "static/media/passlogo.jpg": "/static/media/passlogo.948efdcc9b4295d27fc7.jpg",
+    "static/media/Veerel Logo New Transparent-White.png": "/static/media/Veerel Logo New Transparent-White.c1a4dbeedcf83562fe12.png",
+    "static/media/Veerel Logo-White-with-navy.png": "/static/media/Veerel Logo-White-with-navy.af537b4a47bc74d8e15a.png",
+    "static/media/Veerel Logo.png": "/static/media/Veerel Logo.320b369e9656144e10b3.png",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.704edcf7.js.map": "/static/js/main.704edcf7.js.map",
+    "453.e0050b3d.chunk.js.map": "/static/js/453.e0050b3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.704edcf7.js"
+  ]
+}
